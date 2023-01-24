@@ -1,0 +1,2 @@
+const names=require('./2-shiva')
+console.log(names.fn)

@@ -1,0 +1,4 @@
+let fn="Shiva"
+let mn="Prasad"
+
+module.exports={fn,mn}
